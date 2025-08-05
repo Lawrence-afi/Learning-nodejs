@@ -1,0 +1,20 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawrence-afi/Learning-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lawrence-afi/Learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/Lawrence-afi/Learning-nodejs#readme"
+}
